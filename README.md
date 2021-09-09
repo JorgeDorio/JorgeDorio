@@ -9,6 +9,7 @@
 - 📫 Contato: jorgegabrielbd.jj@gmail.com
 - ⚡ Fato engracado: Hoje curso Engenharia Mecanica na faculdade, mas pretendo seguir com a carreira de desnvolvedor
 
+
 #### (en)
 
 ### Hi there 👋
@@ -20,11 +21,20 @@
 - 📫 How to reach me: jorgegabrielbd.jj@gmail.com
 - ⚡ Fun fact: I am currently studying Mechanical Engineering at college, but I intend to pursue a career as a developer
 
+<hr>
 
  <div>
   <a href="https://github.com/jorgedorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgedorio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedorio&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+ <hr>
+ 
+ <div> 
+  <a href="https://www.linkedin.com/in/jorge-dorio-878bb4196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jorgegabrielbd.jj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jorge.dorioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
