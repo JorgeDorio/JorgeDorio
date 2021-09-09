@@ -18,7 +18,14 @@
 - 👯 I'm looking to collaborate or develop a project in the area.
 - 🤔 Open to tips and opinions wherever possible
 - 📫 How to reach me: jorgegabrielbd.jj@gmail.com
-- ⚡ Fun fact: I am currently studying Mechanical Engineering at college, but I intend to pursue a career as a developer 
+- ⚡ Fun fact: I am currently studying Mechanical Engineering at college, but I intend to pursue a career as a developer
+
+
+ <div>
+  <a href="https://github.com/jorgedorio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgedorio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedorio&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 <!--
 **JorgeDorio/JorgeDorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
