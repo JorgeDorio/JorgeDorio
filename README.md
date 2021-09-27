@@ -7,7 +7,6 @@
 - 👯 Estou procurando colaborar ou desenvolver algum projeto na área
 - 🤔 Aberto a dicas e opinioes em tudo que for possivel
 - 📫 Contato: jorgegabrielbd.jj@gmail.com
-- ⚡ Fato engracado: Hoje curso Engenharia Mecanica na faculdade, mas pretendo seguir com a carreira de desnvolvedor
 
 
 #### (en)
@@ -19,7 +18,6 @@
 - 👯 I'm looking to collaborate or develop a project in the area.
 - 🤔 Open to tips and opinions wherever possible
 - 📫 How to reach me: jorgegabrielbd.jj@gmail.com
-- ⚡ Fun fact: I am currently studying Mechanical Engineering at college, but I intend to pursue a career as a developer
 
 <hr>
 
