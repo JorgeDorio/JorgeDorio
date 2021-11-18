@@ -32,11 +32,7 @@ contate-me / contact me:
 
 #
 
-<div>
- 
-  <a href="https://github.com/jorgedorio">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgedorio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" bgcolor=0000/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedorio&layout=compact&langs_count=7&theme=github_dark&hide_border=true" bgcolor=0000/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedorio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedorio&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
