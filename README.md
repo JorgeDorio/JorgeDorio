@@ -8,29 +8,18 @@ contate-me / contact me:
 
 #
 
-#### (pt-br) Olá! 👋     (en) Hi there! 👋
-
-#
-
-- 🔭 Estou procurando um emprego
-- 🔭 I'm looking for a job
-
-#
+#### (pt-br) Olá! 👋
 
 - 🌱 Estudo JavaScript, HTML e CSS para desenvolvimento web 
--  🌱 I study JavaScript, HTML and CSS for web development
-
-#
-
 - 👯 Procuro colaborar ou desenvolver algum projeto na área 
-- 👯 I'm looking for collaborating or developing a project in the area
-
-#
-
 - 🤔 Aberto a dicas e opinioes em tudo que for possivel 
-- 🤔 I'm open to tips and opinions wherever possible
 
-#
+
+#### (en) Hi there! 👋
+
+-  🌱 I study JavaScript, HTML and CSS for web development
+-  👯 I'm looking for collaborating or developing a project in the area
+-  🤔 I'm open to tips and opinions wherever possible
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedorio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedorio&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
